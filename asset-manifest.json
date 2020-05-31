@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ornek-uygulama/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ornek-uygulama/static/js/main.2b4c68e4.chunk.js",
+    "main.js.map": "/ornek-uygulama/static/js/main.2b4c68e4.chunk.js.map",
+    "runtime-main.js": "/ornek-uygulama/static/js/runtime-main.674c2255.js",
+    "runtime-main.js.map": "/ornek-uygulama/static/js/runtime-main.674c2255.js.map",
+    "static/js/2.c058ff14.chunk.js": "/ornek-uygulama/static/js/2.c058ff14.chunk.js",
+    "static/js/2.c058ff14.chunk.js.map": "/ornek-uygulama/static/js/2.c058ff14.chunk.js.map",
+    "index.html": "/ornek-uygulama/index.html",
+    "precache-manifest.474f42d1d5f338b2105c76f3275423ab.js": "/ornek-uygulama/precache-manifest.474f42d1d5f338b2105c76f3275423ab.js",
+    "service-worker.js": "/ornek-uygulama/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ornek-uygulama/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c058ff14.chunk.js.LICENSE.txt": "/ornek-uygulama/static/js/2.c058ff14.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ornek-uygulama/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674c2255.js",
+    "static/js/2.c058ff14.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2b4c68e4.chunk.js"
+  ]
+}
